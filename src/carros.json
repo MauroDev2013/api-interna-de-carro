@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "nome": "Model 3",
+    "marca": "Tesla",
+    "categoria": "Sedan",
+    "imagens": [
+      "https://dobbygl.github.io/allbrands-api/v1/images/tesla/model-3/full.webp",
+      "https://www.greenncap.com/wp-content/uploads/tesla-model-3-2024-0211-478x320.png",
+      "https://www.estadao.com.br/resizer/v2/L46UDBGQDFIPXMR6W5Q75JIFVE.jpg?quality=80&auth=86743301c05fe9e54325dfd58cb6ece57c51040083f473b1158a4a3d8f2c4539&width=1262&height=710&smart=true"
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Corolla",
+    "marca": "Toyota",
+    "categoria": "Sedan",
+    "imagens": [
+      "https://dobbygl.github.io/allbrands-api/v1/images/toyota/corolla/full.webp",
+      "https://media.toyota.com.br/3e323a94-e216-4c09-a379-fff7de9617e5.png",
+      "https://www.planetcarsz.com/img/noticias/2023/10/toyota-corolla-eu-version-2024-01-20231015110155-1600x1067.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Civic",
+    "marca": "Honda",
+    "categoria": "Sedan",
+    "imagens": [
+      "https://dobbygl.github.io/allbrands-api/v1/images/honda/civic/full.webp",
+      "https://midiawm1.webmotors.com.br/wp-content/uploads/2024/01/17155545/2024-Honda-Civic-RS-Prototype-1-2048x1366-1-1536x1025.webp",
+      "https://www.daitan.com.br/img/modelos/typeR/typer-azul.webp"
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Mustang",
+    "marca": "Ford",
+    "categoria": "Esportivo",
+    "imagens": [
+      "https://dobbygl.github.io/allbrands-api/v1/images/ford/mustang/full.webp",
+      "https://live.dealer-asset.co/images/br1001/product/paintSwatch/vehicle/ford-brasil-cores-mustang-mache-azul-estoril-171224.jpg?s=1024",
+      "https://live.dealer-asset.co/images/br1001/product/paintSwatch/vehicle/ford-brasil-cores-mustang-mache-vermelho-zadar-1712241.jpg?s=1024"
+    ]
+  },
+  {
+    "id": 5,
+    "nome": "Camaro",
+    "marca": "Chevrolet",
+    "categoria": "Esportivo",
+    "imagens": [
+      "https://chevroletjorlan.com.br/df/uploads/products/versions/colors/chevrolet-camaro-coupe-vermelho.png",
+      "https://www.westmotorschevrolet.com.br/content/dam/chevrolet/sa/br/pt/master/home/performance/camaro/colorizer/chevrolet-camaro-coupe-laranja-sunset.png?imwidth=1200",
+      "https://www.westmotorschevrolet.com.br/content/dam/chevrolet/sa/br/pt/master/home/performance/camaro/colorizer/chevrolet-camaro-coupe-branco-summit.png?imwidth=1200"
+    ]
+  },
+  {
+    "id": 6,
+    "nome": "Golf",
+    "marca": "Volkswagen",
+    "categoria": "Hatch",
+    "imagens": [
+      "https://dobbygl.github.io/allbrands-api/v1/images/volkswagen/golf/full.webp",
+      "https://images.hgmsites.net/med/2024-volkswagen-golf-2-0t-dsg-angular-front-exterior-view_100908664_m.webp",
+      "https://images.hgmsites.net/med/2024-volkswagen-golf-2-0t-autobahn-dsg-angular-front-exterior-view_100908508_m.webp"
+    ]
+  },
+  {
+    "id": 7,
+    "nome": "Cayenne",
+    "marca": "Porsche",
+    "categoria": "SUV",
+    "imagens": [
+      "https://s2-autoesporte.glbimg.com/X67Rtfb3DmZHFU6D4kpKWFJO-Tc=/0x0:1920x1280/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2026/b/3/muJXPISbOE0GyXB6dXEg/s26-0105-a3-rgb.jpg",
+      "https://images.hgmsites.net/med/2025-porsche-cayenne-e-hybrid-awd-angular-front-exterior-view_100968074_m.webp",
+      "https://images.hgmsites.net/med/2025-porsche-cayenne-e-hybrid-awd-angular-rear-exterior-view_100968075_m.webp"
+    ]
+  },
+  {
+    "id": 8,
+    "nome": "X5",
+    "marca": "BMW",
+    "categoria": "SUV",
+    "imagens": [
+      "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331S%25NrnF94fX5jHS9gwyljT5lkQM37fNw9zKPbuDShtf5o62YI6lUJujnWqAwIrxlMkJEPuqTMI0nTNfIAnH7GRCPxh7slGAGwsCrXpFp4HlZQ6KAbrXRaYWFIbQ5nmPKJNagOybW5KnvIT9PeWO2B3ibM3Ijedw9hIBDMztr%25oeqhk7ZnHMLoACROchJHFl5JAou%25KXgM2HSfWQvbW%25V1PaHZsfNEbn%25XP10s9Ofo6E4riI1H0scZwBE2drxRtesoyZ857MrHpRUgChZmL5GvloROFgp2XH5IMv6jQ%25gn22YDafvOVjmqn12uHDyLOEjmKqTJIsDyyL3uBrqUTJdSeZLGauzVMRJpuSkNh5u4DVA0ogsjcNF4HvrbH0Kc%252Z964WxfjRiWcP81D50BxbUEqgFI89GsLmyUUiprJyz9Gw6ZuTlZptYRS3Xx67m5VdQHYCygNzfimlTv0k1EyX324AkDTQdjcFhf3azDxKkodnkq8WwHzOALUoPlkIFJGHxXABKup%258FFeWS6faaKMPVY1vWWhbNmETQPo90y91qbHi4TiEP9%25wc3wZTiftxdtiyw178z7AWtECUkCF07slGAlXjCrXpFXQYlZQ6KQrIXRaYWaqKQ5nmPnL1agOyb2CnnvIT9jfSO2B3iDUvIjedwFd2BDFMVtjCekx06wrXRTXe4bkAhFUhZJ%25moubvYgMnvNk3FFe0Pwg91KVZbYEt2Whc91kUrOpTSXB3GZ5gscC4D5gvrt3H9NvJ7Q6TeJnvzabenlO30AiyXq%25sGM8snyQiASk%25WaXYvQGZIyRZ",
+      "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1p75zfAtUDvSdBKM4Kt2yUGCpLCerQNlZya2wdqfkPGhEbzLuSDyesix2l84WsyZOvdImvhjVB5xbZP%25F6Y8snGXMZSk%25oaBMh3YdqfRT%25jptvM%25cO0%25lp7W3qTMI0nTNfIAnH7GRCPxh7slGAGV9CrXpFpDulZQ6KArkXRaYWFONQ5nmP%25eIagOybfKGnvIT91leO2B3iE2TIjedwsnOBDMztrAzeqhk7BfHMLoACeOvhJHFlMIxou%25KXhndHSfWQogB%25V1PaH6LfNEbn%258g10s9OfG1E4riI100scZwBELsrxRteaogZ857Mn67RUgChOYS5GvloIZhgp2XHLPmv6jQ%25JTQ2YDafu39jmqn1SwGDyLOEVt7qTJIsNVeL3uBr0UVJdSeZWEYuzVMRPsSSkNh5byyVA0og9QNNF1cGa8w0%25lx2tpO4Ws8onNpofPtUDVkdKoRsigpn4sxgeb7UrOjJE470jR5gswTobVgLtXpyBLagd14fXw1j6UmmlDnEfbc1KVZiNV",
+      "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1p75zfAtUDvSdBKM4Kt2yUGCpLCTEQNlZya2wdqfkPGhEbzLuSDyesix2l84WsyZOvdImvhjVB5xbZP%25F6Y8snGXMZSk%25oaBMh3YdqfRT%25hptvM%25cO0%25lp7W3qTMI0nTNT9T8lO2B3i3bnIjedwdkxBDMztr%25oeqhk7ZiyMLoACRO%25hJHFl5WVou%25KXgPKHSfWQvbm%25V1PaHZsfNEbn%25hL10s9Ofo6E4riI1MKscZwBEpjrxRtesulZ857MraIRUgChZXA5GvloRQlgp2XH5qMv6jQ%25eEq2YDafM3ajmqn1hdcDyLOEo2tqTJIsNxyL3uBr0ABJdSeZ4FCuzVMRcXySkNh5xQaVA0og8x%25NF4HvUmt0Kc%252wnb4WxfjtEMcPrUYIpCxEaGqlm989RpfBcmfsil6J4KAbfMuLjmB8RGjowX65eLVZ8XxLv2jRCzfw4jSlnmdhSIjAr8snCrLy633aJBZswUrb4g7c4"
+    ]
+  },
+  {
+    "id": 9,
+    "nome": "A4",
+    "marca": "Audi",
+    "categoria": "Sedan",
+    "imagens": [
+      "https://revistacarro.com.br/wp-content/uploads/2018/05/audi_a4_ambiente.jpg",
+      "https://image1.mobiauto.com.br/images/api/images/v1.0/221792778/transform/fl_progressive,f_webp,q_auto",
+      "https://image1.mobiauto.com.br/images/api/images/v1.0/60546601/transform/fl_progressive,f_webp,q_auto"
+    ]
+  },
+  {
+    "id": 10,
+    "nome": "911",
+    "marca": "Porsche",
+    "categoria": "Esportivo",
+    "imagens": [
+      "https://dobbygl.github.io/allbrands-api/v1/images/porsche/911/full.webp",
+      "https://miamiimports.com.br/wp-content/uploads/2024/11/PORSCHE-911-CARRERA-FRENTE-768x600.png",
+      "https://miamiimports.com.br/wp-content/uploads/2024/11/PORSCHE-911-CARRERA-DIANTEIRA-DIREITA.png"
+    ]
+  }
+]
